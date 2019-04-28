@@ -7,6 +7,7 @@ circumference = find_circumference(5)
 
 print(f'Area of cicle with radius {r} is {area}')
 print(f'Circumference of cicle with radius {r} is {circumference}')
+print("--------------------------------------------------------------------------------")
 
 s = 5
 area = find_square_area(5)
@@ -14,3 +15,4 @@ perimeter = find_square_perimeter(5)
 
 print(f'Area of square with side {s} is {area}')
 print(f'Perimeter of square with side {s} is {perimeter}')
+print("--------------------------------------------------------------------------------")
