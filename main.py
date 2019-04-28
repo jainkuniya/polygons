@@ -6,16 +6,16 @@ r = 5
 area = find_area(5)
 circumference = find_circumference(5)
 
-print(f'Area of cicle with radius {r} is {area}')
-print(f'Circumference of cicle with radius {r} is {circumference}')
+print(f'Area of cicle with radius as {r} is {area}')
+print(f'Circumference of cicle with radius as {r} is {circumference}')
 print("--------------------------------------------------------------------------------")
 
 s = 5
 area = find_square_area(5)
 perimeter = find_square_perimeter(5)
 
-print(f'Area of square with side {s} is {area}')
-print(f'Perimeter of square with side {s} is {perimeter}')
+print(f'Area of square with side as {s} is {area}')
+print(f'Perimeter of square with side as {s} is {perimeter}')
 print("--------------------------------------------------------------------------------")
 
 l = 5
@@ -23,6 +23,6 @@ b = 10
 area = find_rectangle_area(5, 10)
 perimeter = find_rectangle_perimeter(5, 10)
 
-print(f'Area of rectangle with side {s} is {area}')
-print(f'Perimeter of rectangle with side {l} and {b} is {perimeter}')
+print(f'Area of rectangle with sides as {l} and {b} is {area}')
+print(f'Perimeter of rectangle with sides as {l} and {b} is {perimeter}')
 print("--------------------------------------------------------------------------------")
