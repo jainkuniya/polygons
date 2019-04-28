@@ -1,4 +1,6 @@
-PI = 3.1415
+from math import pi
+
+PI = pi
 
 def find_area(r): 
     return PI * (r*r); 
